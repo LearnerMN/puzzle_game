@@ -1,0 +1,29 @@
+//
+//  LevelChooserScene.h
+//  TestLogicGame
+//
+//  Created by LearnerMN on 3/21/15.
+//
+//
+
+#ifndef __TestLogicGame__RiverCrossingScene__
+#define __TestLogicGame__RiverCrossingScene__
+
+#include "AbstractRiverCross.h"
+class RiverCrossingScene : public AbstractRiverCross
+{
+public:
+
+    
+    void checkLogic();
+    void res_btn_function(Ref* pSender);
+	// there's no 'id' in cpp, so we recommend returning the class instance pointer
+	static cocos2d::Scene* createScene();
+	// Here's a difference. Method 'init' in cocos2d-x returns bool, instead of returning 'id' in cocos2d-iphone
+	virtual bool init();
+	// implement the "static create()" method manually
+	CREATE_FUNC(RiverCrossingScene);
+};
+
+
+#endif /* defined(__TestLogicGame__RiverCrossingScene__) */

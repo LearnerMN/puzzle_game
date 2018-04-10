@@ -1,0 +1,116 @@
+<Solution>
+  <PropertyGroup Name="ProEdition" Version="2.2.9.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="CrossRiverScene">
+          <Image Name="bt_Back1.png" />
+          <Image Name="bt_Back2.png" />
+          <Image Name="bt_Infor1.png" />
+          <Image Name="bt_Infor2.png" />
+          <Image Name="go_btn_1.png" />
+          <Image Name="go_btn_2.png" />
+          <Image Name="go_btn_left_half.png" />
+          <Image Name="go_btn_right_half.png" />
+          <Image Name="level_chooser.png" />
+          <Image Name="locked_level.png" />
+          <Image Name="nhasu.png" />
+          <Image Name="thodan0.png" />
+        </Folder>
+        <Project Name="CrossRiverScene.csd" Type="Scene" />
+        <Project Name="CrossRiverScene_2.csd" Type="Scene" />
+        <Project Name="CrossRiverScene_3.csd" Type="Scene" />
+        <Project Name="finish_layer.csd" Type="Layer" />
+        <Folder Name="fonts">
+          <TTF Name="MNERAS.TTF" />
+        </Folder>
+        <Project Name="gameover_layer.csd" Type="Layer" />
+        <Project Name="LevelChooserScene.csd" Type="Scene" />
+        <Project Name="LevelsLayer.csd" Type="Layer" />
+        <Folder Name="MainScene">
+          <Folder Name="Block">
+            <Image Name="BlockBlock1.png" />
+            <Image Name="BlockBlock2.png" />
+            <Image Name="BlockBlock99.png" />
+            <Image Name="CR_level_2.png" />
+          </Folder>
+          <Image Name="bgiqstar.png" />
+          <Image Name="block_chooser.png" />
+          <Image Name="bt_Bxh1.png" />
+          <Image Name="bt_Bxh2.png" />
+          <Image Name="bt_Infor1.png" />
+          <Image Name="bt_Infor2.png" />
+          <Image Name="bt_Time.png" />
+        </Folder>
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Folder Name="MatchScene">
+          <File Name=".DS_Store" />
+          <Image Name="level_bg.PNG" />
+          <Image Name="match_0.png" />
+          <Image Name="match_1.png" />
+          <Image Name="match_2.png" />
+          <Image Name="match_3.png" />
+          <Image Name="match_board.png" />
+          <Image Name="math_bg.png" />
+        </Folder>
+        <Project Name="MatchScene.csd" Type="Scene" />
+        <Project Name="MatchScene_0.csd" Type="Scene" />
+        <Project Name="MatchScene_1.csd" Type="Scene" />
+        <Project Name="MatchScene_2.csd" Type="Scene" />
+        <Folder Name="menu">
+          <Image Name="arrow.png" />
+          <Image Name="bt_Achi1.png" />
+          <Image Name="bt_Achi2.png" />
+          <Image Name="bt_Back1.png" />
+          <Image Name="bt_Back2.png" />
+          <Image Name="bt_Help1.png" />
+          <Image Name="bt_Help2.png" />
+          <Image Name="bt_Menu1.png" />
+          <Image Name="bt_Menu2.png" />
+          <Image Name="bt_Replay1.png" />
+          <Image Name="bt_Replay2.png" />
+          <Image Name="bt_Share1.png" />
+          <Image Name="bt_Share2.png" />
+          <Image Name="bt_Sound1.png" />
+          <Image Name="bt_Sound2.png" />
+          <Image Name="dis_arrow.png" />
+          <Image Name="frame_help.png" />
+          <Image Name="menu_back.png" />
+        </Folder>
+        <Project Name="menu_layer.csd" Type="Layer" />
+        <Folder Name="RC_3">
+          <Image Name="c1.png" />
+          <Image Name="c2.png" />
+          <Image Name="c3.png" />
+          <Image Name="c4.png" />
+          <Image Name="c5.png" />
+          <Image Name="time_line.png" />
+        </Folder>
+        <Folder Name="RiverCrossing">
+          <Image Name="bg.png" />
+          <Image Name="left_island.png" />
+          <Image Name="right_island.png" />
+          <Image Name="river.png" />
+        </Folder>
+        <Image Name="bapcai.png" />
+        <Image Name="bgUIBlock.png" />
+        <Image Name="BlockBlock2.png" />
+        <Image Name="cuu0.png" />
+        <Image Name="soi.png" />
+        <Image Name="thuyen1_1.png" />
+        <Image Name="thuyen1_2.png" />
+        <Image Name="thuyen2_1.png" />
+        <Image Name="thuyen2_2.png" />
+        <Project Name="CrossRiverScene_4.csd" Type="Scene" />
+        <Folder Name="RC_4">
+          <Image Name="bag1.png" />
+          <Image Name="bag2.png" />
+          <Image Name="bag3.png" />
+          <Image Name="man1.png" />
+          <Image Name="man2.png" />
+          <Image Name="man3.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
